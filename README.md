@@ -1,7 +1,10 @@
-# Deployed on netlify
+# React poetry app
+
+## Deployed on netlify
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9075a954-c433-45cd-82e7-3324f06a1df3/deploy-status)](https://app.netlify.com/sites/react-poetry-app-142e4c/deploys)
-### Getting Started with Create React App
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
